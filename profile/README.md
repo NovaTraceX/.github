@@ -1,6 +1,7 @@
 # NovaTraceX
 
 **NovaTraceX** is a powerful Digital Forensic tool designed to assist investigators in visualizing and analyzing digital evidence using **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)**.
+It streamlines investigation workflows by transforming unstructured digital evidence into structured, visual insights—enhancing clarity, speed, and decision-making in cybercrime analysis.
 
 ---
 
